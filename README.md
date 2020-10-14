@@ -49,6 +49,6 @@ Observations are listed at the top of the notebook.
 
 
 
-
+------------------------------------------------------
 Copyright
 Trilogy Education Services © 2020. All Rights Reserved.
